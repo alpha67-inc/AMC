@@ -15,7 +15,7 @@ public class amc {
     {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::setup);
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::clientSetup);
-        salut
+        prousxdt
     }
 
     public void setup(FMLCommonSetupEvent e)
